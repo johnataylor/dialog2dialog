@@ -1,0 +1,13 @@
+C:\private\v4\dialog2dialog\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\private\v4\dialog2dialog\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\private\v4\dialog2dialog\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\private\v4\dialog2dialog\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cache
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cs
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.RazorTargetAssemblyInfo.cache
+C:\private\v4\dialog2dialog\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\private\v4\dialog2dialog\Server\obj\Debug\netcoreapp2.1\Server.pdb
